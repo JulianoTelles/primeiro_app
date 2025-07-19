@@ -51,7 +51,7 @@ class _DiceRollerState extends State<DiceRoller> {
               fontSize: 28,
             ),
           ),
-          child: const Text('Clique girar o Dado'),
+          child: const Text('Clique aqui para girar o Dado'),
         ),
       ],
     );
